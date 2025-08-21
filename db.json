@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "arfa",
+      "age": "19",
+      "email": "arfa@gmail.com",
+      "password": "arfa19"
+    },
+    {
+      "name": "aniq khokhar",
+      "age": "18",
+      "email": "aniq@gmail.com",
+      "password": "aniq18fdsdsv",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "name": "zafar",
+      "age": "20",
+      "email": "zafar@gmail.com",
+      "password": "zafar20"
+    },
+    {
+      "name": "uzair ",
+      "age": "19",
+      "email": "uzair@gmail.com",
+      "password": "uzair19",
+      "id": "4"
+    },
+    {
+      "id": "5",
+      "name": "umair",
+      "age": "20",
+      "email": "umair@gmail.com",
+      "password": "umair20"
+    },
+    {
+      "name": "abdullah king",
+      "age": "20",
+      "email": "abdullah@gmail.com",
+      "password": "abdullah20",
+      "id": "6"
+    },
+    {
+      "id": "7",
+      "name": "armaghan",
+      "age": "20",
+      "email": "armaghan@gmail.com",
+      "password": "armaghan20"
+    },
+    {
+      "name": "hamza ali abbasi",
+      "age": "190",
+      "email": "hamza8@gmail.comjok",
+      "password": "hamza18vv",
+      "id": "8"
+    },
+    {
+      "id": "10a0",
+      "name": "pipi",
+      "age": "2",
+      "email": "pipi@gmail.com",
+      "password": "ccdfd453gf"
+    },
+    {
+      "id": "f100",
+      "name": "ameer",
+      "age": "20",
+      "email": "ameer@gmail",
+      "password": "89t798866"
+    }
+  ]
+}
